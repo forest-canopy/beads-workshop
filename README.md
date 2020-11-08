@@ -19,4 +19,4 @@ Under `gr1-5`.
 
 ## Hypotheses
 
-- XXXX 
+- XXXX (you can add your hypo here or post as issues)
