@@ -17,3 +17,6 @@ Under `gr1-5`.
 - `Multivariate Demo 8Nov2020.R`: multivariate analysis
 
 
+## Hypotheses
+
+- XXXX 
