@@ -1,0 +1,19 @@
+Sample_code,Rhododendron_decorum,Rhododendron_irroratum,Ficus_heteromorpha,Lithocarpus_hancei,Skimmia_arborescens,Illicium_macranthum,Rhododendron_leptothrium,Beilschmiedia_robusta,Itoa_orientalis,Manglietia_insignis,Stewartia_pteropetiolata,Sterculia_nobilis,Ficus_racemosa,Ilex_manneiensis,Sch sim,Osbeckia_mepalensis,Vaccinium_duclouxii,Ficus_henryi,Betula_alnoides,Claoxylon_khasianum,Acer_campbellii,Olea_rosea,Lindera_caudata,Camellia_forrestii,Saurauia_napaulensis,Craibiodendron_yunnanense,Eriobotrya_tengyuehensis,Padus_napaulensis
+P_E_1_a,2,3,1,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P_E_1_b,0,7,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+P_E_1_c,2,8,3,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,6
+P_E_2_a,7,3,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+P_E_2_b,7,7,2,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+P_E_2_c,10,4,1,0,0,0,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P_E_3_a,4,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+P_E_3_b,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+P_E_3_c,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0
+S_E_1_a,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S_E_1_b,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S_E_1_c,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S_E_2_a,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+S_E_2_b,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+S_E_2_c,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S_E_3_a,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+S_E_3_b,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+S_E_3_c,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
