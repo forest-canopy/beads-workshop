@@ -11,7 +11,7 @@
 
 Under `gr1-5`.
 
-## Some example
+## Some examples
 
 - `diversity.rmd`: phylogenetic and functional diversity analysis
 - `Multivariate Demo 8Nov2020.R`: multivariate analysis
